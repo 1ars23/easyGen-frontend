@@ -4,13 +4,19 @@
 React JS Login Signup.
 
 ## Project Steps
-#### Step 1: Install Dependencies
+#### Step 1: Cloning Project
+
+```bash
+$ git clone <Repository>
+```
+
+#### Step 2: Install Dependencies
 
 ```bash
 $ npm install
 ```
 
-#### Step 2: Run the Project
+#### Step 3: Run the Project
 
 ```bash
 # Docker Setup
